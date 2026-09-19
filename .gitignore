@@ -1,5 +1,2 @@
-build/*.aerap
-build/manifest.json
-build/metadata.json
-build/runtime.xz
+build/
 plugin.json.sig
