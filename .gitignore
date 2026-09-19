@@ -1,0 +1,5 @@
+build/*.aerap
+build/manifest.json
+build/metadata.json
+build/runtime.xz
+plugin.json.sig

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "id": "doom",
+  "name": "AERA Doom",
+  "version": "0.1.0",
+  "description": "Standalone native Doom engine with touch controls, speaker audio, persistent saves and support for personal IWAD files.",
+  "type": "app-runtime",
+  "entry": "doom",
+  "min_host_api": 1,
+  "payload": "runtime.xz",
+  "payload_url": "https://github.com/AERA-Plugins/doom/releases/download/v0.1.0/runtime.xz",
+  "payload_size": 8004336,
+  "payload_sha256": "0214a48e3222a4229358e063109f46e7a7c696a275c83592f313638ef3d3ad5d",
+  "expanded_size": 30110416,
+  "expanded_sha256": "d81966deb3264e69693607e21dcced2147fa6809b834be38817b56063e6059a0",
+  "member_count": 6,
+  "icon": "game",
+  "permissions": [
+    "display",
+    "touch-input",
+    "audio-output",
+    "read-write-storage"
+  ]
+}
